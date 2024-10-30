@@ -1,0 +1,154 @@
+# Translation of Plugins - HTP SMTP - Development (trunk) in Spanish (Ecuador)
+# This file is distributed under the same license as the Plugins - HTP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-05 11:54:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_EC\n"
+"Project-Id-Version: Plugins - HTP SMTP - Development (trunk)\n"
+
+#: inc/Main.php:66
+msgid "Send Email"
+msgstr "Enviar el correo electrónico"
+
+#: inc/Admin_Menus.php:194 inc/Network_Admin_Menus.php:179
+msgid "Send this email in HTML or in plain text format."
+msgstr "Envía este correo electrónico en formato HTML o en texto sin formato."
+
+#: inc/Admin_Menus.php:187 inc/Network_Admin_Menus.php:172
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/Network_Admin_Menus.php:37
+msgid "Options Saved"
+msgstr "Opciones guardadas"
+
+#: inc/Main.php:183
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/Main.php:102
+msgid "Test email was sent successfully! Please check your inbox to make sure it is delivered."
+msgstr "¡El correo electrónico de prueba se ha enviado correctamente! Por favor, comprueba tu bandeja de entrada para asegurarte que se ha entregado."
+
+#: inc/Main.php:100
+msgid "Congrats, test email was sent successfully!"
+msgstr "¡Enhorabuena! ¡El correo electrónico de prueba se ha enviado correctamente!"
+
+#: inc/Main.php:99
+msgid "HTP SMTP: Test email"
+msgstr "HTP SMTP: Correo electrónico de prueba"
+
+#: inc/Main.php:92 inc/Main.php:104
+msgid "You cannot send an email. Mailer is not properly configured. Please check your settings."
+msgstr "No puedes enviar un correo electrónico. El proveedor de correo no está configurado correctamente. Por favor, comprueba tus ajustes."
+
+#: inc/Main.php:86
+msgid "Email address is not valid"
+msgstr "La dirección de correo electrónico no es válida"
+
+#: inc/Main.php:81
+msgid "Security check not passed!"
+msgstr "¡No se ha superado el control de seguridad!"
+
+#: inc/Main.php:56
+msgid "Send to"
+msgstr "Enviar a"
+
+#: inc/Main.php:50
+msgid "Send Test Email"
+msgstr "Enviar un correo electrónico de prueba"
+
+#: inc/Admin_Menus.php:207 inc/Network_Admin_Menus.php:192
+msgid "Delete options while deactivate this plugin."
+msgstr "Borra las opciones al desactivar este plugin."
+
+#: inc/Admin_Menus.php:200 inc/Network_Admin_Menus.php:185
+msgid "Delete Options"
+msgstr "Borrar las opciones"
+
+#: inc/Admin_Menus.php:174 inc/Network_Admin_Menus.php:159
+msgid "Password"
+msgstr "Contraseña"
+
+#: inc/Admin_Menus.php:161 inc/Network_Admin_Menus.php:146
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: inc/Admin_Menus.php:143 inc/Network_Admin_Menus.php:128
+msgid "SMTP Authentication"
+msgstr "Identificación SMTP"
+
+#: inc/Admin_Menus.php:129 inc/Network_Admin_Menus.php:114
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+#: inc/Admin_Menus.php:121 inc/Network_Admin_Menus.php:106
+msgid "TLS"
+msgstr "TLS"
+
+#: inc/Admin_Menus.php:120 inc/Network_Admin_Menus.php:105
+msgid "SSL"
+msgstr "SSL"
+
+#: inc/Admin_Menus.php:119 inc/Network_Admin_Menus.php:104
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/Admin_Menus.php:111 inc/Network_Admin_Menus.php:96
+msgid "SMTP Secure"
+msgstr "SMTP seguro"
+
+#: inc/Admin_Menus.php:97 inc/Network_Admin_Menus.php:82
+msgid "SMTP Host"
+msgstr "Servidor SMTP"
+
+#: inc/Admin_Menus.php:88 inc/Admin_Menus.php:152
+#: inc/Network_Admin_Menus.php:137
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/Admin_Menus.php:87 inc/Admin_Menus.php:151
+#: inc/Network_Admin_Menus.php:136
+msgid "No"
+msgstr "No"
+
+#: inc/Admin_Menus.php:79
+msgid "Using SMTP Network"
+msgstr "Usar la red SMTP"
+
+#: inc/Admin_Menus.php:66 inc/Network_Admin_Menus.php:69
+msgid "From Name"
+msgstr "Nombre del remitente"
+
+#: inc/Admin_Menus.php:54 inc/Network_Admin_Menus.php:57
+msgid "From"
+msgstr "Remitente"
+
+#: inc/Admin_Menus.php:48 inc/Network_Admin_Menus.php:51
+msgid "General"
+msgstr "General"
+
+#. Author URI of the plugin
+msgid "https://hutanatu.com/"
+msgstr "https://hutanatu.com/"
+
+#. Author of the plugin
+msgid "HuTaNaTu"
+msgstr "HuTaNaTu"
+
+#. Description of the plugin
+msgid "HTP SMTP can help us to send emails via SMTP instead of the PHP mail() function and email logger built-in."
+msgstr "HTP SMTP puede ayudarnos a enviar correos electrónicos a través de SMTP en lugar de la función PHP `mail()` y el registrador de correo electrónico incorporado."
+
+#. Plugin URI of the plugin
+msgid "https://hutanatu.com/plugin/htp-smtp/"
+msgstr "https://hutanatu.com/plugin/htp-smtp/"
+
+#. Plugin Name of the plugin
+msgid "HTP SMTP"
+msgstr "HTP SMTP"
